@@ -22,7 +22,7 @@
 - [x] git commit
 - [x] git remote add
 - [x] git push
-- [x] git pull
+- [ ] git pull
 - [ ] git branch
 
 
